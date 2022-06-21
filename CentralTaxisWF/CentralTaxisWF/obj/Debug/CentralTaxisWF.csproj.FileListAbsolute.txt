@@ -1,0 +1,16 @@
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\bin\Debug\CentralTaxisWF.exe.config
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\bin\Debug\CentralTaxisWF.exe
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\bin\Debug\CentralTaxisWF.pdb
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\obj\Debug\CentralTaxisWF.csproj.AssemblyReference.cache
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\obj\Debug\CentralTaxisWF.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\obj\Debug\CentralTaxisWF.Properties.Resources.resources
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\obj\Debug\CentralTaxisWF.csproj.GenerateResource.cache
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\obj\Debug\CentralTaxisWF.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\obj\Debug\CentralTaxisWF.exe
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\obj\Debug\CentralTaxisWF.pdb
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\bin\Debug\EntityFramework.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\bin\Debug\EntityFramework.xml
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\obj\Debug\CentralTaxisWF.Central.resources
+C:\Users\alexi\Documents\Ciclo III\PROGRA I\CentralTaxisWF\CentralTaxisWF\obj\Debug\CentralTaxisWF.csproj.CopyComplete

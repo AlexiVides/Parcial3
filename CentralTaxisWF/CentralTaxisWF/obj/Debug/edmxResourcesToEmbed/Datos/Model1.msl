@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="centralTaxiModelStoreContainer" CdmEntityContainer="centralTaxiEntities">
+    <EntitySetMapping Name="Taxis">
+      <EntityTypeMapping TypeName="centralTaxiModel.Taxis">
+        <MappingFragment StoreEntitySet="Taxis">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nombreTaxista" ColumnName="nombreTaxista" />
+          <ScalarProperty Name="matricula" ColumnName="matricula" />
+          <ScalarProperty Name="numChasis" ColumnName="numChasis" />
+          <ScalarProperty Name="numVIN" ColumnName="numVIN" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
