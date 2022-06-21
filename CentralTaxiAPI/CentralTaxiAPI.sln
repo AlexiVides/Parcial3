@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralTaxiAPI", "CentralTaxiAPI\CentralTaxiAPI.csproj", "{A35E3CE5-76B7-4ABD-BDC3-6C8CBBA5407B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A35E3CE5-76B7-4ABD-BDC3-6C8CBBA5407B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A35E3CE5-76B7-4ABD-BDC3-6C8CBBA5407B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A35E3CE5-76B7-4ABD-BDC3-6C8CBBA5407B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A35E3CE5-76B7-4ABD-BDC3-6C8CBBA5407B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F0C764-6B97-4C2F-9A4C-76546A4BCAAF}
+	EndGlobalSection
+EndGlobal
